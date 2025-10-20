@@ -169,10 +169,10 @@ MonoBehaviour:
   _originAuthority: 0
   _latitude: 43.0861105
   _longitude: -77.6745811
-  _height: 100
-  _ecefX: 995914.808569354
-  _ecefY: -4557961.6876517525
-  _ecefZ: 4334561.529521973
+  _height: 125
+  _ecefX: 995918.7060339948
+  _ecefY: -4557979.525015309
+  _ecefZ: 4334578.60694071
   _scale: 1
 --- !u!114 &404559651
 MonoBehaviour:
@@ -489,6 +489,10 @@ PrefabInstance:
       value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 2512387470528047719, guid: 48cb3fb68c91eb94999fd99957eb0cae, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 2512387470528047719, guid: 48cb3fb68c91eb94999fd99957eb0cae, type: 3}
       propertyPath: m_Name
       value: XR Origin (AR Rig)
       objectReference: {fileID: 0}
@@ -514,11 +518,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2512387470528047738, guid: 48cb3fb68c91eb94999fd99957eb0cae, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 5.3359597e-18
+      value: 9.3379294e-18
       objectReference: {fileID: 0}
     - target: {fileID: 2512387470528047738, guid: 48cb3fb68c91eb94999fd99957eb0cae, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -4.435739e-18
+      value: -7.762543e-18
       objectReference: {fileID: 0}
     - target: {fileID: 2512387470528047738, guid: 48cb3fb68c91eb94999fd99957eb0cae, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -587,7 +591,7 @@ MonoBehaviour:
     c0:
       x: 0.9647534819407176
       y: -0.26315531361395944
-      z: 0
+      z: -0.000000000000000020816681416654655
       w: 0
     c1:
       x: -0.20236455032458028
